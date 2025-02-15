@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_glide_date_4</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-15 07:34:51</sys_created_on>
+        <sys_id>b8b92d60c3b35610fc6bbd73e4013120</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_glide_date_4</sys_name>
+        <sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope>
+        <sys_update_name>sys_ui_policy_action_b8b92d60c3b35610fc6bbd73e4013120</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-15 07:34:51</sys_updated_on>
+        <table>x_1451492_maruti_s_vehicle_request</table>
+        <ui_policy display_value="Hide/Mandatory Delivery Date field">8d98ed2cc3735610fc6bbd73e40131d1</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=b8b92d60c3b35610fc6bbd73e4013120"/>
+</record_update>
