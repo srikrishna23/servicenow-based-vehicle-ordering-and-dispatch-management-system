@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="b942ba10c3339210fc6bbd73e40131d6" extends="task" label="Vehicle Request" max_length="40" name="x_1451492_maruti_s_vehicle_request" type="collection"/>
+    <element db_object_id="b942ba10c3339210fc6bbd73e40131d6" extends="task" label="Vehicle Request" max_length="40" name="x_1451492_maruti_s_vehicle_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Warranty Expiration" max_length="40" name="u_glide_date_10" read_only="true" type="glide_date"/>
+        <element attributes="encode_utf8=false" label="Requestor Name" mandatory="true" max_length="32" name="u_reference_2" reference="x_1451492_maruti_s_vehicle_request" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Delivery Date" max_length="40" name="u_glide_date_4" type="glide_date"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" max_length="20" name="u_price_9" read_only="true" type="price"/>
+        <element attributes="encode_utf8=false" default="68c7dda8c37f1610fc6bbd73e4013183" label="Vehicle Model" mandatory="true" max_length="32" name="u_reference_1" reference="x_1451492_maruti_s_vehicles" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Business Requirements" max_length="40" name="u_string_8" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vehicle Description" max_length="40" name="u_string_7" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vehicle Model" max_length="40" name="u_string_6" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Quantity" max_length="40" name="u_string_3" type="string"/>
+    </element>
 </database>

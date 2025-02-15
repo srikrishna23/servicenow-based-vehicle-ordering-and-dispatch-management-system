@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="178d30e4c3b31610fc6bbd73e401311f" extends="cmdb_ci" label="Vehicle Models" max_length="40" name="x_1451492_maruti_s_vehicles" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Car Model" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Brezza" sequence="5" value="brezza"/>
+                <element inactive_on_update="false" label="Alto" sequence="7" value="alto"/>
+                <element inactive_on_update="false" label="Swift" sequence="0" value="swift"/>
+                <element inactive_on_update="false" label="Baleno" sequence="2" value="baleno"/>
+                <element inactive_on_update="false" label="Dzire" sequence="1" value="dzire"/>
+                <element inactive_on_update="false" label="Grand Vitara" sequence="4" value="grand vitara"/>
+                <element inactive_on_update="false" label="Ertiga" sequence="6" value="ertiga"/>
+                <element inactive_on_update="false" label="Fronx" sequence="3" value="fronx"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" max_length="20" name="u_price_2" type="price"/>
+    </element>
+</database>
