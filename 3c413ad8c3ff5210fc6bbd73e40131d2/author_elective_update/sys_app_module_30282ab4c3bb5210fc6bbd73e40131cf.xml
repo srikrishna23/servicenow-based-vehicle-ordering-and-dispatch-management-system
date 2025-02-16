@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Maruti Suzuki">ada2be9cc3ff5210fc6bbd73e401311d</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Add a new Car</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Upload New Vehicle</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1451492_maruti_s_vehicles</name>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1451492_maruti_s.vehicle_management</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-16 06:46:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>30282ab4c3bb5210fc6bbd73e40131cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Upload New Vehicle</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope>
+        <sys_update_name>sys_app_module_30282ab4c3bb5210fc6bbd73e40131cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-16 06:46:44</sys_updated_on>
+        <timeline_page/>
+        <title>Upload New Vehicle</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</application>
+        <file_path/>
+        <instance_id>1eb325453b8b8ad8677f04e0b5e45a7c</instance_id>
+        <instance_name>dev276936</instance_name>
+        <name>sys_app_module_30282ab4c3bb5210fc6bbd73e40131cf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Maruti Suzuki">ada2be9cc3ff5210fc6bbd73e401311d</application><assessment/><device_type/><filter/><hint>Add a new Car</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Upload New Vehicle</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1451492_maruti_s_vehicles</name><order>1</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1451492_maruti_s.vehicle_management</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-16 06:46:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>30282ab4c3bb5210fc6bbd73e40131cf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Upload New Vehicle</sys_name><sys_overrides/><sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package><sys_policy/><sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope><sys_update_name>sys_app_module_30282ab4c3bb5210fc6bbd73e40131cf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-16 06:46:44</sys_updated_on><timeline_page/><title>Upload New Vehicle</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>6770403</payload_hash>
+        <record_name>Upload New Vehicle</record_name>
+        <reverted_from/>
+        <source>73dfac24c3b31610fc6bbd73e401319f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-16 06:46:44</sys_created_on>
+        <sys_id>c0b82e70c37b5210fc6bbd73e401313e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1950d8267770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-16 06:46:44</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c4b82e70c17b5210030ba26535a8533d</update_guid>
+        <update_guid_history>c4b82e70c17b5210030ba26535a8533d:6770403</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Upload New Vehicle">b0db22b8c3fb5210fc6bbd73e40131ff</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-16 07:00:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>3cc762c119c64b208ea93400d0b1a400</sys_id>
+        <sys_metadata>30282ab4c3bb5210fc6bbd73e40131cf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Upload New Vehicle</sys_name>
+        <sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope>
+        <sys_scope_delete display_value="">a88cd3b9a06a43dd983a1dda63393431</sys_scope_delete>
+        <sys_update_name>sys_app_module_30282ab4c3bb5210fc6bbd73e40131cf</sys_update_name>
+        <sys_update_version display_value="sys_app_module_30282ab4c3bb5210fc6bbd73e40131cf">c0b82e70c37b5210fc6bbd73e401313e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-16 07:00:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

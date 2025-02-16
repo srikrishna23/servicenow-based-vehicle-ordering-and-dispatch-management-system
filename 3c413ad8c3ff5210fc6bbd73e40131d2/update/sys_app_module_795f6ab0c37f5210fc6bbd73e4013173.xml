@@ -5,37 +5,37 @@
         <assessment/>
         <device_type/>
         <filter/>
-        <hint/>
+        <hint>-&gt; All Veh. Req, Create New Veh. Req., Activate Veh. Req.</hint>
         <homepage/>
         <image/>
-        <link_type>SEPARATOR</link_type>
+        <link_type>LIST</link_type>
         <map_page/>
         <mobile_title>Vehicle Request</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name/>
-        <order>1</order>
+        <name>x_1451492_maruti_s_vehicle_request</name>
+        <order>2</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles/>
+        <roles>x_1451492_maruti_s.dispatch_management,x_1451492_maruti_s.release_management,x_1451492_maruti_s.vehicle_management</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-02-14 18:13:18</sys_created_on>
+        <sys_created_on>2025-02-16 07:17:24</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>2da2be9cc3ff5210fc6bbd73e4013123</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Vehicle Request</sys_name>
+        <sys_id>795f6ab0c37f5210fc6bbd73e4013173</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>All Vehicle Request</sys_name>
         <sys_overrides/>
         <sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope>
-        <sys_update_name>sys_app_module_2da2be9cc3ff5210fc6bbd73e4013123</sys_update_name>
+        <sys_update_name>sys_app_module_795f6ab0c37f5210fc6bbd73e4013173</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-14 18:13:18</sys_updated_on>
+        <sys_updated_on>2025-02-16 07:19:36</sys_updated_on>
         <timeline_page/>
-        <title>Vehicle Request</title>
+        <title>All Vehicle Request</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

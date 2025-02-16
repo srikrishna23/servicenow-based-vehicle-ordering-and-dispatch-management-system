@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Maruti Suzuki">e9ee4128c3bb1610fc6bbd73e401318f</application>
+        <filter/>
+        <name>Vehicle Details</name>
+        <order>2</order>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1451492_maruti_s.dispatch_management,x_1451492_maruti_s.release_management,x_1451492_maruti_s.vehicle_management</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-15 05:35:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>edee4128c3bb1610fc6bbd73e4013193</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Vehicle Details</sys_name>
+        <sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope>
+        <sys_update_name>sys_ui_module_edee4128c3bb1610fc6bbd73e4013193</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-16 06:43:58</sys_updated_on>
+        <table>x_1451492_maruti_s_vehicles</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</application>
+        <file_path/>
+        <instance_id>1eb325453b8b8ad8677f04e0b5e45a7c</instance_id>
+        <instance_name>dev276936</instance_name>
+        <name>sys_ui_module_edee4128c3bb1610fc6bbd73e4013193</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Maruti Suzuki">e9ee4128c3bb1610fc6bbd73e401318f</application><filter/><name>Vehicle Details</name><order>2</order><path/><path_relative_to_root>false</path_relative_to_root><roles>x_1451492_maruti_s.dispatch_management,x_1451492_maruti_s.release_management,x_1451492_maruti_s.vehicle_management</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-15 05:35:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>edee4128c3bb1610fc6bbd73e4013193</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Vehicle Details</sys_name><sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package><sys_policy/><sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope><sys_update_name>sys_ui_module_edee4128c3bb1610fc6bbd73e4013193</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-16 06:43:58</sys_updated_on><table>x_1451492_maruti_s_vehicles</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1370404078</payload_hash>
+        <record_name>Vehicle Details</record_name>
+        <reverted_from/>
+        <source>73dfac24c3b31610fc6bbd73e401319f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-16 06:43:58</sys_created_on>
+        <sys_id>5308a2bcc3bb5210fc6bbd73e4013185</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1950d7fdc820000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-16 06:43:58</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d708a2bc33bb5210accdb5aec60b2584</update_guid>
+        <update_guid_history>d708a2bc33bb5210accdb5aec60b2584:-1370404078,1ccad6b41fff12106ce9995341d490c0:-1189150022,ebd356f4b1ff1210a5a79b26ea7cd309:-1407143452,65ee41280cbb161014b33d557a8027b0:965194718</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-16 06:57:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>08d4e5e41a074c80b26bbfb22af75100</sys_id>
+        <sys_metadata>edee4128c3bb1610fc6bbd73e4013193</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Details</sys_name>
+        <sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope>
+        <sys_scope_delete display_value="">a88cd3b9a06a43dd983a1dda63393431</sys_scope_delete>
+        <sys_update_name>sys_ui_module_edee4128c3bb1610fc6bbd73e4013193</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_edee4128c3bb1610fc6bbd73e4013193">5308a2bcc3bb5210fc6bbd73e4013185</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-16 06:57:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
