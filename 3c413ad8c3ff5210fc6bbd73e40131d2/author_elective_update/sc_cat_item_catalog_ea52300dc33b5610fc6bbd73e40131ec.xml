@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Order Vehicles">2e22344dc33b5610fc6bbd73e40131c6</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-16 16:48:13</sys_created_on>
+        <sys_id>ea52300dc33b5610fc6bbd73e40131ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Order Vehicles</sys_name>
+        <sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_ea52300dc33b5610fc6bbd73e40131ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-16 16:48:13</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</application>
+        <file_path/>
+        <instance_id>1eb325453b8b8ad8677f04e0b5e45a7c</instance_id>
+        <instance_name>dev276936</instance_name>
+        <name>sc_cat_item_catalog_ea52300dc33b5610fc6bbd73e40131ec</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Order Vehicles">2e22344dc33b5610fc6bbd73e40131c6</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-16 16:48:13</sys_created_on><sys_id>ea52300dc33b5610fc6bbd73e40131ec</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Order Vehicles</sys_name><sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package><sys_policy/><sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope><sys_update_name>sc_cat_item_catalog_ea52300dc33b5610fc6bbd73e40131ec</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-16 16:48:13</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>292892227</payload_hash>
+        <record_name>Service Catalog.Order Vehicles</record_name>
+        <reverted_from/>
+        <source>73dfac24c3b31610fc6bbd73e401319f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-16 16:48:13</sys_created_on>
+        <sys_id>7252b081c37b5610fc6bbd73e401311c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1950fa911130000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-16 16:48:13</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>7652b0818b7b5610f1ba6b7df1adcf1b</update_guid>
+        <update_guid_history>7652b0818b7b5610f1ba6b7df1adcf1b:292892227</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Order Vehicles">938e9f41c3b39a10fc6bbd73e40131a7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-17 05:20:33</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>440feaaa0c84440885cb8fbdc7ac8d24</sys_id>
+        <sys_metadata>ea52300dc33b5610fc6bbd73e40131ec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Order Vehicles</sys_name>
+        <sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package>
+        <sys_parent display_value="">2e22344dc33b5610fc6bbd73e40131c6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope>
+        <sys_scope_delete display_value="">a88cd3b9a06a43dd983a1dda63393431</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_ea52300dc33b5610fc6bbd73e40131ec</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_ea52300dc33b5610fc6bbd73e40131ec">7252b081c37b5610fc6bbd73e401311c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-17 05:20:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

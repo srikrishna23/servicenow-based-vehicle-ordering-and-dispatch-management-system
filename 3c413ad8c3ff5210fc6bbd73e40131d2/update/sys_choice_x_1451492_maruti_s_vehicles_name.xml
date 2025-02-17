@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="name" table="x_1451492_maruti_s_vehicles" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <name>x_1451492_maruti_s_vehicles</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-17 01:32:31</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>name</sys_name>
+            <sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope>
+            <sys_update_name>sys_choice_x_1451492_maruti_s_vehicles_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-17 01:32:31</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Alto</label>
+            <language>en</language>
+            <name>x_1451492_maruti_s_vehicles</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-17 01:32:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-17 01:33:49</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Swift</label>
+            <language>en</language>
+            <name>x_1451492_maruti_s_vehicles</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-17 01:32:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-17 01:33:52</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dzire</label>
+            <language>en</language>
+            <name>x_1451492_maruti_s_vehicles</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-17 01:32:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-17 01:33:57</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Baleno</label>
+            <language>en</language>
+            <name>x_1451492_maruti_s_vehicles</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-17 01:33:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-17 01:34:16</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fronx</label>
+            <language>en</language>
+            <name>x_1451492_maruti_s_vehicles</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-17 01:32:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-17 01:34:02</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Brezza</label>
+            <language>en</language>
+            <name>x_1451492_maruti_s_vehicles</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-17 01:33:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-17 01:34:24</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grand Vitara</label>
+            <language>en</language>
+            <name>x_1451492_maruti_s_vehicles</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-17 01:33:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-17 01:34:48</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Eritiga</label>
+            <language>en</language>
+            <name>x_1451492_maruti_s_vehicles</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-17 01:33:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-17 01:34:54</sys_updated_on>
+            <value/>
+        </sys_choice>
+    </sys_choice>
+</record_update>
