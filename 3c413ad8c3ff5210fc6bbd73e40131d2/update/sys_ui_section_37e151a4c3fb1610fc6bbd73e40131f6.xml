@@ -4,13 +4,13 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-15 06:02:32</sys_created_on>
-            <sys_id>3af411e8c33f1610fc6bbd73e40131cb</sys_id>
+            <sys_created_on>2025-02-17 12:59:16</sys_created_on>
+            <sys_id>328785d5c3bb1e10fc6bbd73e401315a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1451492_maruti_s_vehicles" sys_domain="global" view="Default view">37e151a4c3fb1610fc6bbd73e40131f6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-15 06:02:32</sys_updated_on>
+            <sys_updated_on>2025-02-17 12:59:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>manufacturer</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-15 06:02:32</sys_created_on>
-            <sys_id>bef411e8c33f1610fc6bbd73e40131cb</sys_id>
+            <sys_created_on>2025-02-17 12:59:16</sys_created_on>
+            <sys_id>3a8785d5c3bb1e10fc6bbd73e401315a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1451492_maruti_s_vehicles" sys_domain="global" view="Default view">37e151a4c3fb1610fc6bbd73e40131f6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-15 06:02:32</sys_updated_on>
+            <sys_updated_on>2025-02-17 12:59:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>u_choice_1</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-15 06:02:32</sys_created_on>
-            <sys_id>36f411e8c33f1610fc6bbd73e40131cc</sys_id>
+            <sys_created_on>2025-02-17 12:59:16</sys_created_on>
+            <sys_id>328785d5c3bb1e10fc6bbd73e401315b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1451492_maruti_s_vehicles" sys_domain="global" view="Default view">37e151a4c3fb1610fc6bbd73e40131f6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-15 06:02:32</sys_updated_on>
+            <sys_updated_on>2025-02-17 12:59:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-15 06:02:32</sys_created_on>
-            <sys_id>baf411e8c33f1610fc6bbd73e40131cc</sys_id>
+            <sys_created_on>2025-02-17 12:59:16</sys_created_on>
+            <sys_id>3a8785d5c3bb1e10fc6bbd73e401315b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1451492_maruti_s_vehicles" sys_domain="global" view="Default view">37e151a4c3fb1610fc6bbd73e40131f6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-15 06:02:32</sys_updated_on>
+            <sys_updated_on>2025-02-17 12:59:16</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>model_number</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-15 06:02:32</sys_created_on>
-            <sys_id>32f411e8c33f1610fc6bbd73e40131cd</sys_id>
+            <sys_created_on>2025-02-17 12:59:16</sys_created_on>
+            <sys_id>328785d5c3bb1e10fc6bbd73e401315c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1451492_maruti_s_vehicles" sys_domain="global" view="Default view">37e151a4c3fb1610fc6bbd73e40131f6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-15 06:02:32</sys_updated_on>
+            <sys_updated_on>2025-02-17 12:59:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,41 +74,55 @@
             <element>owned_by</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-15 06:02:32</sys_created_on>
-            <sys_id>f6f411e8c33f1610fc6bbd73e40131cd</sys_id>
+            <sys_created_on>2025-02-17 12:59:16</sys_created_on>
+            <sys_id>3a8785d5c3bb1e10fc6bbd73e401315c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1451492_maruti_s_vehicles" sys_domain="global" view="Default view">37e151a4c3fb1610fc6bbd73e40131f6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-15 06:02:32</sys_updated_on>
+            <sys_updated_on>2025-02-17 12:59:16</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_cost</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-17 12:59:16</sys_created_on>
+            <sys_id>328785d5c3bb1e10fc6bbd73e401315d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1451492_maruti_s_vehicles" sys_domain="global" view="Default view">37e151a4c3fb1610fc6bbd73e40131f6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-17 12:59:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-15 06:02:32</sys_created_on>
-            <sys_id>7ef411e8c33f1610fc6bbd73e40131cd</sys_id>
+            <sys_created_on>2025-02-17 12:59:16</sys_created_on>
+            <sys_id>3a8785d5c3bb1e10fc6bbd73e401315d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1451492_maruti_s_vehicles" sys_domain="global" view="Default view">37e151a4c3fb1610fc6bbd73e40131f6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-15 06:02:32</sys_updated_on>
+            <sys_updated_on>2025-02-17 12:59:16</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-02-15 06:02:32</sys_created_on>
-            <sys_id>f2f411e8c33f1610fc6bbd73e40131ce</sys_id>
+            <sys_created_on>2025-02-17 12:59:16</sys_created_on>
+            <sys_id>b6870119c3bb1e10fc6bbd73e401312e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1451492_maruti_s_vehicles" sys_domain="global" view="Default view">37e151a4c3fb1610fc6bbd73e40131f6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-02-15 06:02:32</sys_updated_on>
+            <sys_updated_on>2025-02-17 12:59:16</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

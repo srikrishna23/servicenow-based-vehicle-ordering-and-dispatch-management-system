@@ -16,7 +16,17 @@
 		g_form.setSectionDisplay("vehicle_details",false);
 		g_form.setSectionDisplay("delivery_details",false);
    }
-   
+   else{
+		// g_form.setSectionDisplay('vehicle_details',true);
+		// g_form.setSectionDisplay('delivery_details',true);
+		g_form.getReference('u_reference_1',getDetails);
+   }
+}
+function getDetails(details){
+	g_form.setValue('u_string_6',details.model_number);
+	g_form.setValue('u_string_7',details.short_description);
+	g_form.setValue('u_price_9',details.u_price_2);
+	g_form.setValue('u_glide_date_10',details.warranty_expiration);
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -24,7 +34,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ceaf2124c3375610fc6bbd73e4013125</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Hide Details section</sys_name>
         <sys_overrides/>
         <sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package>
@@ -32,7 +42,7 @@
         <sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope>
         <sys_update_name>sys_script_client_ceaf2124c3375610fc6bbd73e4013125</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-02-15 11:07:42</sys_updated_on>
+        <sys_updated_on>2025-02-17 12:57:13</sys_updated_on>
         <table>x_1451492_maruti_s_vehicle_request</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>

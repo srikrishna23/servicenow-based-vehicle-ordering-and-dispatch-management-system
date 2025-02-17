@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>total_cost</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Display Total Cost</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+	var price = g_form.getValue("u_price_9");
+	var quantity = g_form.getValue("u_string_3");
+	g_form.setValue("total_cost","₹ "+formatINR(parseInt(price,10)*parseInt(quantity,10)));
+}
+
+function formatINR(number) {
+    // Convert the number to a string and split it into integer and decimal parts
+    let [integerPart, decimalPart] = number.toString().split(".");
+    
+    // Format the integer part using regex
+    let lastThreeDigits = integerPart.slice(-3);
+    let otherDigits = integerPart.slice(0, -3);
+    
+    if (otherDigits) {
+        lastThreeDigits = ',' + lastThreeDigits;
+    }
+    
+    // Group the other digits in pairs of two
+    let formattedIntegerPart = otherDigits.replace(/\B(?=(\d{2})+(?!\d))/g, ",") + lastThreeDigits;
+
+    // If there's a decimal part, append it
+    if (decimalPart) {
+        return formattedIntegerPart + "." + decimalPart;
+    }
+    
+    return formattedIntegerPart;
+}
+]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-17 13:22:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0a3c8559c33f1e10fc6bbd73e40131c1</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Display Total Cost</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope>
+        <sys_update_name>sys_script_client_0a3c8559c33f1e10fc6bbd73e40131c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-17 13:32:56</sys_updated_on>
+        <table>x_1451492_maruti_s_vehicle_request</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

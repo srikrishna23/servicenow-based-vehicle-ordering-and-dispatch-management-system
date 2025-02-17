@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="178d30e4c3b31610fc6bbd73e401311f" extends="cmdb_ci" label="Vehicle Models" max_length="40" name="x_1451492_maruti_s_vehicles" type="collection">
+        <element attributes="omit_sys_original=true" label="Total Cost" max_length="20" name="total_cost" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Grand Total" max_length="40" name="grand_total" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Car Model" max_length="40" name="u_choice_1" type="string">
             <choice>
                 <element inactive_on_update="false" label="CNG" sequence="5" value="cng"/>
