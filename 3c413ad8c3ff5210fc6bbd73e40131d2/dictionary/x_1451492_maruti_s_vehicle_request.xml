@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="b942ba10c3339210fc6bbd73e40131d6" extends="task" label="Vehicle Request" max_length="40" name="x_1451492_maruti_s_vehicle_request" type="collection">
+        <element label="Total Cost Integer" max_length="40" name="total_cost_integer" read_only="true" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Warranty Expiration" max_length="40" name="u_glide_date_10" read_only="true" type="glide_date"/>
         <element attributes="encode_utf8=false" default="javascript:gs.getUserID()" dynamic_default_value="90d1921e5f510100a9ad2572f2b477fe" label="Requestor Name" mandatory="true" max_length="32" name="u_reference_2" reference="sys_user" type="reference" use_dynamic_default="true"/>
         <element attributes="edge_encryption_enabled=true" label="Remainder for pickup" max_length="40" name="remainder_for_pickup" type="glide_date_time"/>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="New Tab 1">9600e0abc373ded0fc6bbd73e4013117</grid_canvas>
+        <height>18</height>
+        <portal_widget display_value="Created 2025-02-24 01:53:15">9a1060a7c373ded0fc6bbd73e40131a0</portal_widget>
+        <posx>0</posx>
+        <posy>18</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 09:53:15</sys_created_on>
+        <sys_id>561060a7c373ded0fc6bbd73e40131a2</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>9600e0abc373ded0fc6bbd73e4013117</sys_name>
+        <sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_561060a7c373ded0fc6bbd73e40131a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-25 03:10:53</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+</record_update>

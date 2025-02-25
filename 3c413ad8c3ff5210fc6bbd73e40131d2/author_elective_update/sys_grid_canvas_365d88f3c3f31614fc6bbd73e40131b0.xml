@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="DELETE">
+        <legacy_page display_value="New Tab 2">f25d88f3c3f31614fc6bbd73e40131af</legacy_page>
+        <name>New Tab 2</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-25 03:09:51</sys_created_on>
+        <sys_id>365d88f3c3f31614fc6bbd73e40131b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope>
+        <sys_update_name>sys_grid_canvas_365d88f3c3f31614fc6bbd73e40131b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-25 03:09:51</sys_updated_on>
+    </sys_grid_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</application>
+        <file_path/>
+        <instance_id>1eb325453b8b8ad8677f04e0b5e45a7c</instance_id>
+        <instance_name>dev276936</instance_name>
+        <name>sys_grid_canvas_365d88f3c3f31614fc6bbd73e40131b0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page display_value="New Tab 2">f25d88f3c3f31614fc6bbd73e40131af</legacy_page><name>New Tab 2</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-25 03:09:51</sys_created_on><sys_id>365d88f3c3f31614fc6bbd73e40131b0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 2</sys_name><sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package><sys_policy/><sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope><sys_update_name>sys_grid_canvas_365d88f3c3f31614fc6bbd73e40131b0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-25 03:09:51</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+        <payload_hash>-318193249</payload_hash>
+        <record_name>New Tab 2</record_name>
+        <reverted_from/>
+        <source>73dfac24c3b31610fc6bbd73e401319f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-25 03:09:51</sys_created_on>
+        <sys_id>7a5d88f3c3f31614fc6bbd73e40131b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1953b15117d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-25 03:09:51</sys_updated_on>
+        <type>Grid Canvas</type>
+        <update_guid>3e5d88f347f31614fd30e1fa7422e5b1</update_guid>
+        <update_guid_history>3e5d88f347f31614fd30e1fa7422e5b1:-318193249</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-25 03:10:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas">sys_grid_canvas</sys_db_object>
+        <sys_id>451e7e2497c5469895816b5749448210</sys_id>
+        <sys_metadata>365d88f3c3f31614fc6bbd73e40131b0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="Maruti Suzuki" source="x_1451492_maruti_s">3c413ad8c3ff5210fc6bbd73e40131d2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Maruti Suzuki">3c413ad8c3ff5210fc6bbd73e40131d2</sys_scope>
+        <sys_scope_delete display_value="">a88cd3b9a06a43dd983a1dda63393431</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_365d88f3c3f31614fc6bbd73e40131b0</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_365d88f3c3f31614fc6bbd73e40131b0">7a5d88f3c3f31614fc6bbd73e40131b2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-25 03:10:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
